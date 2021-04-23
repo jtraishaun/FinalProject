@@ -1,0 +1,49 @@
+.title {
+  font-weight: bold;
+  font-size: 36px;
+  text-align: Center;
+}
+
+.msg {
+  font-weight: bold;
+  font-size: 80px;
+  text-align: center;
+}
+
+.main{
+  float:left;
+  margin-right:80px;
+}
+.box{
+  height:230px;
+  width:220px;
+  border:solid 2px black;
+  border-radius: 5px;
+  margin-top: 50px;
+}
+
+.red:hover{
+ background-color: red;
+   color: white;
+}
+
+.blue:hover{
+ background-color: blue;
+   color: white;
+}
+
+.green:hover{
+ background-color: green;
+   color: white;
+}
+
+.hide{
+  display:none;
+}
+
+
+#content {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
